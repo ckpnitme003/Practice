@@ -6,6 +6,6 @@ public class Test03 {
 	}
 
 	public void m1(){
-
+		System.out.println("m1method");
 	}
 }
