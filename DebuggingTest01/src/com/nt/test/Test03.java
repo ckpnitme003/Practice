@@ -12,5 +12,6 @@ public class Test03 {
 	}
 	public void m2(){
 		System.out.println("m2 method");
+		System.out.println("m2 method");
 	}
 }
