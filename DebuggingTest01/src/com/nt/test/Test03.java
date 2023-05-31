@@ -7,5 +7,9 @@ public class Test03 {
 
 	public void m1(){
 		System.out.println("m1method");
+	} void m1(){
+		System.out.println("m1method");
+	}
+	public void m2(){
 	}
 }
