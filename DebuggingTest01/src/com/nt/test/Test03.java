@@ -11,5 +11,6 @@ public class Test03 {
 		System.out.println("m1method");
 	}
 	public void m2(){
+		System.out.println("m2 method");
 	}
 }
